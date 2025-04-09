@@ -8,7 +8,7 @@ A simple yet powerful application to manage a collection of cars — add, remove
 ## Nouns
 
 ### `Car`
-- `notes` : string
+- `notes` : list<string>
 - `model` : string
 - `make` : string
 - `year` : int
