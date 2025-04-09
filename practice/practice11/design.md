@@ -82,7 +82,7 @@ classDiagram
         +addNoteToCar(string vin, string note)
     }
 
-    Inventory --> Car : manages >
+    Inventory --> Car : manages
 ```
 
 ---
