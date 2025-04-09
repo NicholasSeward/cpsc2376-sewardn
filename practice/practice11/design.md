@@ -5,7 +5,7 @@ A simple yet powerful application to manage a collection of cars — add, remove
 
 ---
 
-## 🧠 Nouns
+## Nouns
 
 ### `Car`
 - `notes` : string
