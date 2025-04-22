@@ -5,7 +5,13 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+
+    while (true)
+    {
+        int* p = new int{ 34 };
+        //std::cout << "Hello World!\n";
+    }
+    
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
